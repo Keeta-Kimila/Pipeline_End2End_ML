@@ -1,4 +1,5 @@
 .env
 beta_test.ipynb
+demo_app.py
 dataset/*
 other/
